@@ -2,9 +2,9 @@
 
 Minimal project to outline matrix application in Unity.
 
-The picture below shows two cubes with the corresponding applied matrix.
+The picture below shows two cubes with the corresponding applied matrices.
 
-This shows that matrix are applied **from right to left**. The corollary is vectors are seen as columns.
+This shows that matrices are applied **from right to left**. The corollary is vectors are seen as columns.
 
 ![Result](Result.png)
 
